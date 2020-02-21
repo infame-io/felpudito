@@ -1,0 +1,6 @@
+*.pyc
+*.log
+db/*.db
+test.py
+**.idea/**
+*.conf
